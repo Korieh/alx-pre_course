@@ -1,2 +1,2 @@
 My second commit
-My commit 
+My commit
